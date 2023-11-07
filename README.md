@@ -1,4 +1,4 @@
-# Reconocimiento-de-gestos-dinamicos-en-la-lengua-de-se-as-chilena
+# Reconocimiento de gestos dinamicos en la lengua de señas Chilena
 
 # Resumen 
 
